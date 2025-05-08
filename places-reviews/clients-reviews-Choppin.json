@@ -15,18 +15,6 @@
         "translated": false
       },
       {
-        "author_name": "Victorien Fortin",
-        "author_url": "https://www.google.com/maps/contrib/104305918386422247565/reviews",
-        "language": "en",
-        "original_language": "en",
-        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7eDBsTQex5fesnWmXjiZeuI9FIYbBuxphagYl6eC6ced9XQ=s128-c0x00000000-cc-rp-mo-ba2",
-        "rating": 5,
-        "relative_time_description": "5 years ago",
-        "text": "Top",
-        "time": 1569366585,
-        "translated": false
-      },
-      {
         "author_name": "Floryn Grs",
         "author_url": "https://www.google.com/maps/contrib/112158795266633655878/reviews",
         "language": "en",
@@ -36,6 +24,18 @@
         "relative_time_description": "5 years ago",
         "text": "Ok",
         "time": 1572194050,
+        "translated": false
+      },
+      {
+        "author_name": "Victorien Fortin",
+        "author_url": "https://www.google.com/maps/contrib/104305918386422247565/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7eDBsTQex5fesnWmXjiZeuI9FIYbBuxphagYl6eC6ced9XQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Top",
+        "time": 1569366585,
         "translated": false
       },
       {
